@@ -1,0 +1,9 @@
+python-telegram-bot
+pandas
+numpy
+matplotlib
+python-dotenv
+requests
+yfinance
+mplfinance
+alpha-vantage
